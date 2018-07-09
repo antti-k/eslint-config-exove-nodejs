@@ -28,7 +28,7 @@ module.exports = {
 		'eol-last': [ 2, 'always' ],
 		'func-call-spacing': [ 2, 'never' ],
 		'dot-notation': [ 2 ],
-		'indent': [ 2, 'tab' ],
+		'indent': [ 2, 2 ],
 		'key-spacing': [ 2, { beforeColon: false, afterColon: true } ],
 		'keyword-spacing': [ 2, { before: true, after: true } ],
 		'no-cond-assign': [ 2 ],
